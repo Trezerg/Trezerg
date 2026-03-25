@@ -1,205 +1,93 @@
+<!-- HEADER BAR -->
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0f,50:0a1a0a,100:0d0d0f&height=4&section=header)
+
 <div align="center">
 
-<!-- ░░░ HEADER BANNER ░░░ -->
+<!-- KANA -->
+<sub>走る　燃える　生きる</sub>
 
-![sakura header](https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e0,50:ffb3c6,100:c9a0dc&height=200&section=header&text=&animation=fadeIn)
+<!-- TYPING TITLE -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=46&duration=3000&pause=1500&color=00FFC8&center=true&vCenter=true&width=700&height=90&lines=YOUR.NAME_;FULL+STACK+%2F%2F+JDM;LATE+NIGHT+CODER_)](https://git.io/typing-svg)
 
-<br/>
+```
+// FULL STACK DEV  ·  JDM ENTHUSIAST  ·  LATE NIGHT CODER
+```
 
-<!-- Animated cherry blossom falling title -->
-![title](https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&size=38&duration=3000&pause=2000&color=c06b84&center=true&vCenter=true&width=700&height=80&lines=さくら+の+旅;Journey+Through+the+Sakura;꽃+피는+저녁에)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:transparent,50:00FFC820,100:transparent&height=1&section=header)
 
-<br/>
+</div>
 
-<!-- Sakura petal divider -->
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+---
 
-<br/>
+## `01 //` WHO AM_I
 
-<!-- Animated steam train GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZzdHhjZ3ZwMGdrOHFwaTRsd3gyMGgwdWI2YnNtdG83bDMwMDE5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO04qxVReM5rJEA/giphy.gif" width="480" alt="steam train at sunset"/>
+I write code the way I drive mountain passes — **committed to the line**, no hesitation past the apex.
+
+When I'm not pushing commits I'm pushing revs. JDM purist. Late nights, neon dash glow, engine bay immaculate.
+
+```bash
+$ location   → Tokyo expressway, 2am
+$ status     → building something fast
+$ car        → [REDACTED]
+$ coffee     → third cup, no regrets
+```
+
+---
+
+## `02 //` STACK // SPEC
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0f?style=for-the-badge&logo=typescript&logoColor=00FFC8)
+![React](https://img.shields.io/badge/React-0d0d0f?style=for-the-badge&logo=react&logoColor=00FFC8)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0f?style=for-the-badge&logo=node.js&logoColor=00FFC8)
+![Python](https://img.shields.io/badge/Python-0d0d0f?style=for-the-badge&logo=python&logoColor=39FF14)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0f?style=for-the-badge&logo=postgresql&logoColor=39FF14)
+![Docker](https://img.shields.io/badge/Docker-0d0d0f?style=for-the-badge&logo=docker&logoColor=00FFC8)
+![Redis](https://img.shields.io/badge/Redis-0d0d0f?style=for-the-badge&logo=redis&logoColor=39FF14)
+![AWS](https://img.shields.io/badge/AWS-0d0d0f?style=for-the-badge&logo=amazonaws&logoColor=00FFC8)
+
+</div>
+
+---
+
+## `03 //` PROJECT LOG
+
+| ▸ | Project | Description | Status |
+|:--|:--------|:------------|:------:|
+| 🔧 | **TOUGE.IO** | Full-stack racing data platform. Real-time telemetry, lap analysis. | ![](https://img.shields.io/badge/ACTIVE-0d0d0f?style=flat&logoColor=00FFC8&color=0d0d0f&labelColor=0d0d0f) `ACTIVE` |
+| 🔩 | **GARAGEDB** | JDM parts inventory + build tracker. Because spreadsheets aren't enough. | `BUILDING` |
+| ⚡ | **NIGHT_API** | Open source REST for weather + road condition data feeds. | `STAGING` |
+
+---
+
+## `04 //` SYSTEM STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=0d0d0f&title_color=00FFC8&text_color=666666&icon_color=00FFC8&border_color=1a2a1a&border_radius=2&hide_border=false" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&bg_color=0d0d0f&title_color=00FFC8&text_color=666666&border_color=1a2a1a&border_radius=2" height="160"/>
 
 <br/><br/>
 
-> *"The train moves slowly into the dusk — petals fall like pink snow behind it."*
-> 
-> 　　　　　　　　　　　　　　　　　　　— 春の旅 *(Spring Journey)*
-
-<br/>
-
-<!-- Badge row -->
-[![Built with Love](https://img.shields.io/badge/built%20with-🌸%20love-ffb3c6?style=for-the-badge&labelColor=2d1b2e)](/)
-[![Sakura Season](https://img.shields.io/badge/season-🌸%20sakura-c9a0dc?style=for-the-badge&labelColor=2d1b2e)](/)
-[![Peaceful](https://img.shields.io/badge/vibes-calm%20%26%20serene-ffd6e0?style=for-the-badge&labelColor=2d1b2e)](/)
+<img src="https://streak-stats.demolab.com?user=yourusername&background=0d0d0f&border=1a2a1a&stroke=00FFC8&ring=00FFC8&fire=39FF14&currStreakNum=00FFC8&sideNums=666666&currStreakLabel=00FFC8&sideLabels=333333&dates=333333&border_radius=2" alt="streak"/>
 
 </div>
-
-<br/>
 
 ---
 
 <div align="center">
 
-## 🌸 &nbsp; 桜 &nbsp; About &nbsp; 桜 &nbsp; 🌸
-
-</div>
-
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXFpd2NldGhzMnp3bGppY3ozMXhqNnlxanNhMzlzM3k0Z2Q1N3ZlcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dBmOZuZ4l2B4BPBKSJ/giphy.gif" width="280" alt="sakura petals falling"/>
-
-A project born from quiet mornings and the soft sound of a steam engine disappearing into mist. Built where the water is still and the sky turns amber, somewhere between here and a place that only exists at dusk.
-
-This is a space for **calm creativity** — where code is written slowly, thoughtfully, like ink on washi paper.
-
-```
-  ～ 旅の始まり ～
-    The journey begins
-       not at the destination,
-          but at the platform.
-```
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-## 🚂 &nbsp; Getting Started &nbsp; 🌅
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHM5aGhxa2RobHMzYzJ4amJkMzdscHU4aXRwbTN1cnB3d2c3OWFubSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BRuo6sLetdllPAQ/giphy.gif" width="500" alt="train journey"/>
-
-</div>
+*The train fades into the fog above the pass.*  
+*Taillights disappear around the corner.*  
+*Both heading somewhere you can't follow.*  
+*Both leaving something behind on the asphalt.*
 
 <br/>
 
-The train departs at dawn. Here's how to board:
+`// EOF · KEEP BUILDING · KEEP DRIVING · 走り続けろ`
 
-```bash
-# 🌸 Clone the garden
-git clone https://github.com/yourusername/your-repo.git
-
-# 🍃 Step onto the platform
-cd your-repo
-
-# 🚂 Let the journey begin
-npm install && npm run dev
-```
-
-<br/>
-
----
-
-<div align="center">
-
-## 🌊 &nbsp; Features &nbsp; 夕暮れ
-
-![features gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZsMnl2cXFyNHlmc2ZycW1pYnRoajNpbXd6Z2VvdnpuZ3pndW9hbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgG50Lg7rusOlTW/giphy.gif" width="400" alt="misty lake sunset"/>
-
-</div>
-
-<br/>
-
-| &nbsp; | Feature | 詩 |
-|--------|---------|-----|
-| 🌸 | **Petal-soft UI** | Gentle as morning light on still water |
-| 🚂 | **Steady as Steam** | Reliable, unhurried, always moving forward |
-| 🌅 | **Sunset Rendering** | Every frame is painted like the sky at dusk |
-| 🍃 | **Windborne** | Lightweight, drifting, effortless performance |
-| 🌙 | **Moonlit Mode** | Dark theme as calm as a reflected moon |
-
-<br/>
-
----
-
-<div align="center">
-
-## 🌸 &nbsp; The View from the Window &nbsp; 🌸
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGF0cWZxcGVpNnlycDJhcHZ6dHRsNm9oeGM3aGV5eXkwdzZsbm5ldSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKSha51ATTx9KzC/giphy.gif" width="500" alt="cherry blossoms"/>
-
-*As the train rounds the bend, a thousand sakura trees release their petals all at once.*
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 🗾 &nbsp; Structure &nbsp; 構造
-
-</div>
-
-```
-🌸 your-repo/
-│
-├── 🚂  src/              # The engine room
-│   ├── 🌅  components/   # Views from the window
-│   ├── 🍃  utils/        # Petals on the wind
-│   └── 🌊  styles/       # The color of still water
-│
-├── 🌙  public/           # What the world sees
-├── 🌸  tests/            # Every journey, checked
-└── 📜  README.md         # You are here, traveler
-```
-
-<br/>
-
----
-
-<div align="center">
-
-## 夕暮れ &nbsp; The Sunset Hour &nbsp; 夕暮れ
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXRzYjBpNDAxbHpsb2tsMXV6MnpuN3BzbGdiM25wdnF1amduMnlnZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oFzm0p9dBMPMiGVhe/giphy.gif" width="460" alt="sunset over water"/>
-
-*The locomotive fades into the horizon, trailing steam like clouds of blossoms.*  
-*The lake holds the sky's last colors — rose, amber, violet.*  
-*And for a moment, everything is still.*
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 🌸 &nbsp; Contributing &nbsp; 貢献
-
-</div>
-
-Every sakura tree needs tending. If you'd like to contribute:
-
-1. 🌱 **Fork** — plant your own seed
-2. 🌸 **Branch** — `git checkout -b feature/your-petal`
-3. ✍️  **Commit** — `git commit -m "🌸 add: something beautiful"`
-4. 🚂 **Push** — send it down the line
-5. 🌅 **Pull Request** — let the petals meet
-
-<br/>
-
-> *All contributions are welcome — big as a locomotive, small as a falling petal.*
-
-<br/>
-
----
-
-<div align="center">
-
-## 🌙 &nbsp; In the Quiet After &nbsp; 静寂
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnpjdXJsdTVuNHBnczd3bHF5MWU0dW4xbnF0YW54cHNwaXRrM3E2MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26BRrFXqALa0grfv2/giphy.gif" width="400" alt="night sakura"/>
-
----
-
-*Licensed under the MIT License — free as petals on the wind.*
-
-*Crafted with 🌸 somewhere between the city and the countryside,*  
-*where the train stops only once.*
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:c9a0dc,50:ffb3c6,100:ffd6e0&height=120&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0f,50:0a1a0a,100:0d0d0f&height=4&section=footer)
 
 </div>
