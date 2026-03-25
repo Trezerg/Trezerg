@@ -1,51 +1,53 @@
-<!-- HEADER BAR -->
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0f,50:0a1a0a,100:0d0d0f&height=4&section=header)
+<!-- HEADER LINE -->
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0c,50:0a1828,100:0a0a0c&height=3&section=header)
 
 <div align="center">
 
-<!-- KANA -->
-<sub>走る　燃える　生きる</sub>
+<sub>Data · Code · Machine Learning</sub>
 
 <!-- TYPING TITLE -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=46&duration=3000&pause=1500&color=00FFC8&center=true&vCenter=true&width=700&height=90&lines=YOUR.NAME_;FULL+STACK+%2F%2F+JDM;LATE+NIGHT+CODER_)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=48&duration=3000&pause=1500&color=7EB8FF&center=true&vCenter=true&width=700&height=90&lines=SHENETH+THOMAS;Data+Analyst_;ML+Engineer_;Developer_)](https://git.io/typing-svg)
 
 ```
-// FULL STACK DEV  ·  JDM ENTHUSIAST  ·  LATE NIGHT CODER
+// Self-taught  ·  18  ·  Sri Lanka 🇱🇰
 ```
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:transparent,50:00FFC820,100:transparent&height=1&section=header)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:transparent,50:7EB8FF15,100:transparent&height=1)
 
 </div>
 
 ---
 
-## `01 //` WHO AM_I
+## `01 //` PROFILE
 
-I write code the way I drive mountain passes — **committed to the line**, no hesitation past the apex.
+18-year-old **self-taught developer** based in Sri Lanka, working across data analysis, software development, and machine learning.
 
-When I'm not pushing commits I'm pushing revs. JDM purist. Late nights, neon dash glow, engine bay immaculate.
+I build things from scratch — no shortcuts, no formal classrooms. Just curiosity, consistency, and a lot of late nights.
 
 ```bash
-$ location   → Tokyo expressway, 2am
-$ status     → building something fast
-$ car        → [REDACTED]
-$ coffee     → third cup, no regrets
+$ age        → 18
+$ location   → Sri Lanka 🇱🇰
+$ focus      → Data Analysis · ML · Development
+$ status     → always building something
 ```
 
 ---
 
-## `02 //` STACK // SPEC
+## `02 //` TECH STACK
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0f?style=for-the-badge&logo=typescript&logoColor=00FFC8)
-![React](https://img.shields.io/badge/React-0d0d0f?style=for-the-badge&logo=react&logoColor=00FFC8)
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0f?style=for-the-badge&logo=node.js&logoColor=00FFC8)
-![Python](https://img.shields.io/badge/Python-0d0d0f?style=for-the-badge&logo=python&logoColor=39FF14)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0f?style=for-the-badge&logo=postgresql&logoColor=39FF14)
-![Docker](https://img.shields.io/badge/Docker-0d0d0f?style=for-the-badge&logo=docker&logoColor=00FFC8)
-![Redis](https://img.shields.io/badge/Redis-0d0d0f?style=for-the-badge&logo=redis&logoColor=39FF14)
-![AWS](https://img.shields.io/badge/AWS-0d0d0f?style=for-the-badge&logo=amazonaws&logoColor=00FFC8)
+![Python](https://img.shields.io/badge/Python-0a0a0c?style=for-the-badge&logo=python&logoColor=7EB8FF)
+![Pandas](https://img.shields.io/badge/Pandas-0a0a0c?style=for-the-badge&logo=pandas&logoColor=7EB8FF)
+![NumPy](https://img.shields.io/badge/NumPy-0a0a0c?style=for-the-badge&logo=numpy&logoColor=7EB8FF)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0a0a0c?style=for-the-badge&logo=scikit-learn&logoColor=7EB8FF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0c?style=for-the-badge&logo=tensorflow&logoColor=7EB8FF)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0c?style=for-the-badge&logo=pytorch&logoColor=A0C8FF)
+![SQL](https://img.shields.io/badge/SQL-0a0a0c?style=for-the-badge&logo=postgresql&logoColor=A0C8FF)
+![Power BI](https://img.shields.io/badge/Power%20BI-0a0a0c?style=for-the-badge&logo=powerbi&logoColor=7EB8FF)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0a0a0c?style=for-the-badge&logo=python&logoColor=A0C8FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0c?style=for-the-badge&logo=javascript&logoColor=7EB8FF)
+![Git](https://img.shields.io/badge/Git-0a0a0c?style=for-the-badge&logo=git&logoColor=A0C8FF)
 
 </div>
 
@@ -53,25 +55,28 @@ $ coffee     → third cup, no regrets
 
 ## `03 //` PROJECT LOG
 
-| ▸ | Project | Description | Status |
-|:--|:--------|:------------|:------:|
-| 🔧 | **TOUGE.IO** | Full-stack racing data platform. Real-time telemetry, lap analysis. | ![](https://img.shields.io/badge/ACTIVE-0d0d0f?style=flat&logoColor=00FFC8&color=0d0d0f&labelColor=0d0d0f) `ACTIVE` |
-| 🔩 | **GARAGEDB** | JDM parts inventory + build tracker. Because spreadsheets aren't enough. | `BUILDING` |
-| ⚡ | **NIGHT_API** | Open source REST for weather + road condition data feeds. | `STAGING` |
+```bash
+$ ls ./projects
+→ github.com/trezerg
+
+$ status   → actively building
+```
+
+> All current work lives at **[github.com/trezerg](https://github.com/trezerg)** — check it out.
 
 ---
 
-## `04 //` SYSTEM STATS
+## `04 //` GITHUB STATS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=0d0d0f&title_color=00FFC8&text_color=666666&icon_color=00FFC8&border_color=1a2a1a&border_radius=2&hide_border=false" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=trezerg&show_icons=true&bg_color=0a0a0c&title_color=7EB8FF&text_color=4a6a8a&icon_color=7EB8FF&border_color=0f1e2a&border_radius=2" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&bg_color=0d0d0f&title_color=00FFC8&text_color=666666&border_color=1a2a1a&border_radius=2" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trezerg&layout=compact&bg_color=0a0a0c&title_color=7EB8FF&text_color=4a6a8a&border_color=0f1e2a&border_radius=2" height="160"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=yourusername&background=0d0d0f&border=1a2a1a&stroke=00FFC8&ring=00FFC8&fire=39FF14&currStreakNum=00FFC8&sideNums=666666&currStreakLabel=00FFC8&sideLabels=333333&dates=333333&border_radius=2" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=trezerg&background=0a0a0c&border=0f1e2a&stroke=7EB8FF&ring=7EB8FF&fire=A0C8FF&currStreakNum=7EB8FF&sideNums=4a6a8a&currStreakLabel=7EB8FF&sideLabels=2a3a4a&dates=2a3a4a&border_radius=2"/>
 
 </div>
 
@@ -79,15 +84,10 @@ $ coffee     → third cup, no regrets
 
 <div align="center">
 
-*The train fades into the fog above the pass.*  
-*Taillights disappear around the corner.*  
-*Both heading somewhere you can't follow.*  
-*Both leaving something behind on the asphalt.*
+`// the train doesn't wait at the platform.`  
+`// build while you can. ship while you're sharp.`  
+`// EOF`
 
-<br/>
-
-`// EOF · KEEP BUILDING · KEEP DRIVING · 走り続けろ`
-
-![footer](https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0f,50:0a1a0a,100:0d0d0f&height=4&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0c,50:0a1828,100:0a0a0c&height=3&section=footer)
 
 </div>
