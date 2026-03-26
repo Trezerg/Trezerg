@@ -12,7 +12,8 @@
 // Self-taught  ·  18  ·  Sri Lanka 🇱🇰
 ```
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:transparent,50:7EB8FF15,100:transparent&height=1)
+<!-- ANIMATED SCENE — add scene.svg to your repo root -->
+![night scene](scene.svg)
 
 </div>
 
@@ -40,7 +41,7 @@ $ status     → always building something
 ![Python](https://img.shields.io/badge/Python-0a0a0c?style=for-the-badge&logo=python&logoColor=7EB8FF)
 ![Pandas](https://img.shields.io/badge/Pandas-0a0a0c?style=for-the-badge&logo=pandas&logoColor=7EB8FF)
 ![NumPy](https://img.shields.io/badge/NumPy-0a0a0c?style=for-the-badge&logo=numpy&logoColor=7EB8FF)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0a0a0c?style=for-the-badge&logo=scikit-learn&logoColor=7EB8FF)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0a0a0c?style=for-the-badge&logo=scikit-learn&logoColor=7EB8FF)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0a0a0c?style=for-the-badge&logo=tensorflow&logoColor=7EB8FF)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0c?style=for-the-badge&logo=pytorch&logoColor=A0C8FF)
 ![SQL](https://img.shields.io/badge/SQL-0a0a0c?style=for-the-badge&logo=postgresql&logoColor=A0C8FF)
@@ -62,7 +63,7 @@ $ ls ./projects
 $ status   → actively building
 ```
 
-> All current work lives at **[github.com/trezerg](https://github.com/trezerg)** — check it out.
+> All current work lives at **[github.com/trezerg](https://github.com/trezerg)**
 
 ---
 
@@ -84,8 +85,8 @@ $ status   → actively building
 
 <div align="center">
 
-`// the train doesn't wait at the platform.`  
-`// build while you can. ship while you're sharp.`  
+`// build while you can. ship while you're sharp.`
+
 `// EOF`
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0c,50:0a1828,100:0a0a0c&height=3&section=footer)
